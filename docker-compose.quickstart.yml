@@ -1,6 +1,5 @@
 services:
   paperclip:
-    user: root
     build:
       context: .
       dockerfile: Dockerfile
